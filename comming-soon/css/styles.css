@@ -106,16 +106,16 @@ b.light-color{ color: #444; }
 
 .left-section{ float: left; width: 50%; position: relative; }
 
-.left-section .logo{ position: absolute; top: 40px; height: 30px; }
+.left-section .logo{ position: absolute; top: 30px; height: 30px; }
 
 .left-section .logo img{ height: 400%; width: auto; } 
 
 
-.left-section .main-content{ padding: 40px 40px 40px 0; }
+.left-section .main-content{ padding: 40px 20px 20px 0; }
 
 .main-content .title{ margin-bottom: 15px; }
 
-.main-content .email-input-area{ margin: 40px 0 20px; position: relative; width: 400px; height: 47px; }
+.main-content .email-input-area{ margin: 20px 0 20px; position: relative; width: 400px; height: 47px; }
 
 .main-content .email-input-area .email-input{ width: 100%; position: absolute; top: 0; bottom: 0; left: 0; 
 	border-radius: 40px; border: 0; outline: 0; padding: 0 140px 0 25px; transition: all .2s; background: #F1F2F3; 
